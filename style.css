@@ -13,10 +13,7 @@
 }
 
 body{
-  background:url("./tic_back.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: repeat;
+  background: #223646;
 }
 
 .select-box, .play-board, .result-box{
